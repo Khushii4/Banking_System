@@ -1,7 +1,7 @@
 
 ---
 
-##  Bank Management System – C++
+##Bank Management System – C++##
 
 This is a simple **Bank Management System** written in **C++**. It allows to create bank accounts, deposit and withdraw money, search for accounts, and view all account holders.
 
