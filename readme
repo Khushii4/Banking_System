@@ -1,1 +1,75 @@
 
+---
+
+##  Bank Management System – C++
+
+This is a simple **Bank Management System** written in **C++**. It allows to create bank accounts, deposit and withdraw money, search for accounts, and view all account holders.
+
+---
+
+##  Features
+
+- Create a new bank account  
+- View all existing accounts  
+- Search for an account by account number  
+- Deposit money into an account  
+- Withdraw money from an account  
+- Easy-to-use menu-driven interface  
+
+---
+
+## Project Structure
+
+- Uses **classes** to represent bank accounts and manage them  
+- Uses a **vector** to store all the bank accounts  
+- Clean and simple text-based interface in the terminal  
+
+---
+
+##  How to Run
+
+1. Have a C++ compiler (like `g++`) installed.
+
+2. Compile the program:
+
+```bash
+g++ project.cpp -o bank_system
+```
+
+3. Run the program:
+
+```bash
+./bank_system
+```
+
+---
+
+##  Example
+
+```
+::Bank Management System::
+    Main Menu
+    1. Create New Account
+    2. Show All Accounts
+    3. Search Account
+    4. Deposit Money
+    5. Withdraw Money
+    6. Exit
+```
+
+---
+
+##  Requirements
+
+- C++ compiler (e.g `g++`)
+- Compatible with Windows, Linux, or macOS
+
+---
+
+##  Notes
+
+- This is a **basic project** good for learning object-oriented programming in C++.
+- No file storage is included — data is lost when the program closes.
+- You can expand it by adding file saving, error handling, and user authentication.
+
+---
